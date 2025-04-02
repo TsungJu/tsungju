@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Leonard. And I am a AIOT system Backend Engineer.
+My name is Leonard. And I am a backend and data Engineer.
 
-Also welcome to visit my blog：https://tsungju.github.io/
+welcome to visit my blog：https://tsungju.github.io/
 
 <!--
 **TsungJu/tsungju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
